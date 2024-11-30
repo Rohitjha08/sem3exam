@@ -1,0 +1,11 @@
+to leearn program
+stack implementation using arrays
+stack implementation using linked list
+
+operation on stack
+
+c
+
+infix to postfix conversion
+
+postfix evaLUATION
